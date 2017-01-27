@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EDP</id>
+    <version>1.0.0</version>
+    <title>EDP</title>
+    <authors>Keboo</authors>
+    <owners>Keboo</owners>
+    <licenseUrl>https://github.com/Keboo/EDP/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Keboo/EDP</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A simplistic extendible library for Electronic Data Processing. It separates the the loading, processing, and outputing of the data to allow for taking data in one form and translate it into a more usable form.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Electronic Data Processing</tags>
+  </metadata>
+</package>
