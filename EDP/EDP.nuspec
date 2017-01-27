@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>EDP</id>
-    <version>1.0.0</version>
+    <version>$version$</version>
     <title>EDP</title>
     <authors>Keboo</authors>
     <owners>Keboo</owners>
